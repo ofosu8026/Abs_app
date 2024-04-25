@@ -4,3 +4,6 @@ version control is the system that records changes made in a file.
 github,gitlab, and bitbucket is a tool or platform used to get file into our llocal system for changes and commit them back to the repository.
 
 Keep pushing bro!!! We will get there soon!!!!!!!!!!!!!!!!!!!!
+
+
+for sure we will get there. I tried my hands on the Bastion server which helps to SSH into a server in the private subnet.
