@@ -1,4 +1,4 @@
 This year by hook or crook i will be a devops engineer. i have amde a promise and full commitment to follow the process. 
-no backward. am not gonna surender to anyone . 
+no backward. am not gonna surender to anyone . WE ARE ALL TOGETHER IN THIS. WE SHALL BE SUCCESSFUL
 version control is the system that records changes made in a file. 
 github,gitlab, and bitbucket is a tool or platform used to get file into our llocal system for changes and commit them back to the repository. 
